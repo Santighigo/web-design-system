@@ -4,8 +4,8 @@ This system was used alongside these community Claude Code skills. They aren't b
 
 | Skill | What it adds | Author / where to find it |
 |---|---|---|
-| `design-taste-frontend` (and siblings: `high-end-visual-design`, `minimalist-ui`, `redesign-existing-projects`, `industrial-brutalist-ui`, `gpt-taste`, `full-output-enforcement`) | Anti-"AI slop" frontend rules: brief inference, design dials, layout discipline, pre-flight checks. Use before redesigning large sections. | Taste Skill — search GitHub for "taste-skill" |
-| `impeccable` | UI polish: spacing, hierarchy, micro-details, critique and audit commands. | Paul Bakaus — search GitHub for "impeccable" |
+| `design-taste-frontend` (and siblings: `high-end-visual-design`, `minimalist-ui`, `redesign-existing-projects`, `industrial-brutalist-ui`, `gpt-taste`, `stitch-design-taste`, `image-to-code`, `full-output-enforcement`) | Anti-"AI slop" frontend rules: brief inference, design dials, layout discipline, pre-flight checks. Use before redesigning large sections. | [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) |
+| `impeccable` | UI polish: spacing, hierarchy, micro-details, critique and audit commands. | [pbakaus/impeccable](https://github.com/pbakaus/impeccable) |
 | `ui-ux-pro-max` | Searchable database of styles, palettes, font pairings and UX guidelines. | Search GitHub for "ui-ux-pro-max-skill" |
 | `stop-slop` | Removes AI writing patterns from prose. Good final pass on copy. | Hardik Pandya (hvpandya.com) |
 | `design-system`, `ui-styling` | Token architecture and shadcn/Tailwind styling references. | ClaudeKit (MIT) |

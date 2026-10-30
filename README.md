@@ -19,6 +19,7 @@ It started as a set of hard-won notes: dozens of rounds of annotated screenshots
 | [`docs/08-quality-gates.md`](docs/08-quality-gates.md) | What "done" means. |
 | [`docs/09-collaboration.md`](docs/09-collaboration.md) | Branches, PRs, review docs, deploys, decision logs. |
 | [`docs/10-references.md`](docs/10-references.md) | How to choose and use visual references. |
+| [`docs/11-toolkit.md`](docs/11-toolkit.md) | The libraries behind it (shadcn/ui, Motion, GSAP, Lottie, icons, CMS, tests) and their gotchas. |
 | [`templates/`](templates) | Project `CLAUDE.md`, design tokens, PR review doc, audit report, session handoff. |
 | [`skills/`](skills) | Three Claude Code skills: build, audit, copy pass. |
 | [`RECOMMENDED-SKILLS.md`](RECOMMENDED-SKILLS.md) | Third-party skills this system pairs well with, credited to their authors. |
